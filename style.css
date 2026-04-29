@@ -16,6 +16,9 @@ main {
   padding: 20px;
   border-radius: 10px;
 }
+strong {
+    color: #7b3f00;
+}
 img {
   width: 100%;
   border-radius: 10px;
