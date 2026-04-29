@@ -17,6 +17,9 @@ main {
   padding: 20px;
   border-radius: 10px;
 }
+.principla {
+  font-size: 2em;
+}
 div {
   background-color:  hsl(330, 100%, 98%);
 }
