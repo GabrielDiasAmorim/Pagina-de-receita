@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
 * {
   margin: 0;
   padding: 0;
@@ -20,7 +21,7 @@ main {
 }
 .principal {
   font-size: 2em;
-  font-family: Georgia, serif;
+  font-family: "Young Serif", serif;
 }
 div {
   background-color: #fff7fc;
@@ -37,6 +38,7 @@ img {
 h1 {
   margin: 20px 0;
   color: #7b3f00;
+  font-family: Georgia, serif;
 }
 
 h2 {
