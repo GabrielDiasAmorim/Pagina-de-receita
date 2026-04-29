@@ -23,6 +23,8 @@ main {
 }
 div {
   background-color: #fff7fc;
+  padding: 20px;
+  border-radius: 20px;
 }
 strong {
     color: #7b3f00;
