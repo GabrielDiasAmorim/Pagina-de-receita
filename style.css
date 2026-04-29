@@ -10,7 +10,7 @@ body {
   font-size: 16px;
 }
 main {
-  max-width: 700px;
+  max-width: 1440px;
   width: 90%;
   margin: 40px auto;
   background: white;
@@ -19,9 +19,10 @@ main {
 }
 .principla {
   font-size: 2em;
+  font-family: Georgia, serif;
 }
 div {
-  background-color:  hsl(330, 100%, 98%);
+  background-color: #fff7fc;
 }
 strong {
     color: #7b3f00;
